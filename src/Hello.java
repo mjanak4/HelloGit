@@ -4,7 +4,7 @@
  * 
  * A simple "Hello World!" program in Java
  * 
- * @author mjanak
+ * @author mjanak4
  *
  */
 public class Hello {
